@@ -12,5 +12,6 @@ NIcks: NicolasVelasquez99    Codigo: 201663883
 	   JAlexanderVelasquez   Codigo: 201556089
 	   
 //  El cuarto y quinto commit se hizo desde la cuenta de JAlexanderVelasquez(Binary, Octal,punto4parcialA).
-	   
+//  EL septimo commit que es puntos del parcial B se hizo desde la cuenta de Andres981020.
+
 
